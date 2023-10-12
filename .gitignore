@@ -1,0 +1,5 @@
+.venv
+.env
+qrcodes/
+downloads/
+.vscode/
